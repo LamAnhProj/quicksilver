@@ -1,0 +1,26 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 100%;
+  background-size: cover;
+
+}
+.ui.borderless.topmenu.menu{
+  color: #aaaa;
+  background-color: #ffff;
+  border-bottom: 1px solid #e8e8e8;
+  height: 28px;
+  font-size: 11px;
+}
+
+.ui.borderless.second.menu{
+  color: #011;
+  font-family: "hurme-bold","Helvetica Neue","Helvetica",Arial,Segoe UI Symbol,sans-serif;
+  font-size: 15px;
+  line-height: 66px;
+  text-transform: uppercase;
+}
+.footer-background {
+  background-color: #000;
+  padding-top:20px;
+  color:white;
+}
